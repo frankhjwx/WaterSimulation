@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: WaterEffect1
-  m_Shader: {fileID: 4800000, guid: ef5726f252967af49b5c93752f1fca59, type: 3}
+  m_Shader: {fileID: 4800000, guid: d7df52e2f00ab8141a0d3847067fede3, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -60,23 +60,25 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.43
+    - _Glossiness: 0.299
     - _GlossyReflections: 1
-    - _Metallic: 0.228
+    - _Metallic: 0.144
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Speed: 5.54
+    - _Speed: 4.06
     - _SrcBlend: 1
     - _UVSec: 0
-    - _WaveStrength: 0.78
-    - _Wavelength: 1.69
+    - _WaveStrength: 2.81
+    - _Wavelength: 6732
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.48794055, g: 0.69450444, b: 0.8018868, a: 1}
+    - _Color: {r: 0.28924882, g: 0.4226215, b: 0.49056602, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _WaveCenter1: {r: 50, g: 50, b: 0, a: 0}
+    - _WaveCenter2: {r: 25, g: 75, b: 0, a: 0}
     - _WaveDirection1: {r: 0, g: 1, b: 0, a: 0}
     - _WaveDirection2: {r: 1, g: 0, b: 0, a: 0}
-    - _WaveDirection3: {r: 1, g: 1, b: 0, a: 0}
+    - _WaveDirection3: {r: 1, g: 0.99, b: 0, a: 0}
